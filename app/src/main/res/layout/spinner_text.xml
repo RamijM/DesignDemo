@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatTextView
+    android:id="@+id/spinnerText"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="@dimen/_13sdp"
+    android:textColor="@color/text1"
+    android:textStyle="bold"
+    android:paddingTop="@dimen/_5sdp"
+    android:paddingBottom="@dimen/_5sdp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>

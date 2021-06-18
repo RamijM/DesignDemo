@@ -1,3 +1,61 @@
 <resources>
     <string name="app_name">Practicle1</string>
+    <string name="complete_later">complete later</string>
+    <string name="quick_online_kyc_nfor_better_security">Quick, online KYC\nfor better security</string>
+    <string name="doing_good">Doing Good!</string>
+    <string name="address_proof">Address Proof</string>
+    <string name="please_verify_the_details_extracted_from_ocr">Please verify the details extracted from OCR</string>
+    <string name="dlnumber">DLNumber</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="full_name">Full Name</string>
+    <string name="issue_date_on_dl">Issue Date on DL</string>
+    <string name="expiry_date_on_dl">Expiry Date on DL</string>
+    <string name="address">Address</string>
+    <string name="city_district">City / District</string>
+    <string name="state">State</string>
+    <string name="next">next</string>
+    <string name="selected_address_proof">Selected address proof</string>
+    <string name="_3_7"><![CDATA[
+    <big><b><font color=\'white\'>3</font></b></big><small><font color=\'#3EFFFFFF\'>/7</font></small>
+    ]]></string>
+    <string name="dashboard">dashboard</string>
+    <string name="goals">goals</string>
+    <string name="fractions">fractions</string>
+    <string name="pro_trade">pro trade</string>
+    <string name="change_savings">Change Savings</string>
+    <string name="change_savings_dashboard">Change savings dashboard</string>
+    <string name="search">Search</string>
+    <string name="investment_summary">Investment Summary</string>
+    <string name="view_investment">View Investment</string>
+    <string name="_1_d">1 D</string>
+    <string name="_1_w">1 W</string>
+    <string name="_1_m">1 M</string>
+    <string name="_3_m">3 M</string>
+    <string name="_1_y">1 Y</string>
+    <string name="_5_y">5 Y</string>
+    <string name="all">ALL</string>
+    <string name="_1_day_performance">1 Day Performance</string>
+    <string name="total_saved">Total Saved</string>
+    <string name="to_be_invested">To be invested</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="view_more">view more</string>
+    <string name="where_we_invest_the_change">Where we invest the change</string>
+    <string name="we_automatically_invest_your_change_in_us_stock_based_etfs">We automatically invest your change in US Stock based ETFs</string>
+    <string name="child_text">Our properietary Artifical Intelligence technology will help you invest in a diversified mix of exchange-traded funds (or ETFs for short).</string>
+    <string name="learn_more">learn more</string>
+    <string name="news">News</string>
+    <string name="_4_stock_to_watch_in_coming_week_apple_nike_netflix">4 Stock to watch in coming week: apple, nike, netflix</string>
+    <string name="research_amp_perspective"><![CDATA[Research & Perspective]]></string>
+    <string name="setup_change_savings">setup change savings</string>
+    <string name="all_settings">All Settings</string>
+    <string name="change_savings_settings">Change Savings Settings</string>
+    <string name="modify_your_change_savings_settings_from_here">Modify your change savings settings from here</string>
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+    <string name="find_answer_to_your_queries_about_change_savings_here">Find answer to your queries about change savings here</string>
+    <string name="thanks_to_appreciate_i_ve_made_5x_on_my_investment">\"Thanks to Appreciate. I\'ve made 5x on my investment\"</string>
+
+    <string-array name="array_address_proof">
+        <item>Driver\'s License</item>
+        <item>Pan Card</item>
+    </string-array>
 </resources>
