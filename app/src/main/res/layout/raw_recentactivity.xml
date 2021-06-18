@@ -21,7 +21,7 @@
         android:id="@+id/circle"
         android:layout_width="@dimen/_20sdp"
         android:layout_height="@dimen/_20sdp"
-        android:background="@drawable/white_circle"
+        android:background="@drawable/white_circle2"
         app:layout_constraintTop_toTopOf="@+id/divider"
         app:layout_constraintLeft_toLeftOf="@+id/divider"
         app:layout_constraintRight_toRightOf="@+id/divider"/>
